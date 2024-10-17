@@ -1,5 +1,3 @@
-![image](https://github.com/user-attachments/assets/1d9bdc34-893e-4761-bd49-ec59559b50ba)![image](https://github.com/user-attachments/assets/32be9a73-3e7c-4945-bad4-497b6d4e867d)# llama3.170bBM101624
-Benchmarking Llama 31 70B with long context window across NVIDIA A100 40G, 80G, and H100 80G
 
 Evaluating Meta LLaMA 3.1 Inference on NVIDIA A100 (40GB & 80GB) vs. NVIDIA H100 80GB
 
